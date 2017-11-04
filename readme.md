@@ -7,7 +7,7 @@ Code from mathematica.stackexchange question:  [https://mathematica.stackexchang
 So far I've just made the original post's code run on my machine.
 
 Hopefully I've made it easy for someone else to set everything up on their
-machine.
+machine.  See the first block of code for all the input/output specifications.
 
 Note that the code initially (and currently) took ~1300 seconds to run on my
 machine (Win10 i7 8Gb ram, running MMA version 11.2).  About 1200 seconds of
