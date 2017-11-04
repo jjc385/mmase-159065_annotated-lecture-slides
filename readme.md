@@ -2,7 +2,12 @@
 
 Code from mathematica.stackexchange question:  [https://mathematica.stackexchange.com/questions/159065/automatic-edx-pdf-handout-creator](https://mathematica.stackexchange.com/questions/159065/automatic-edx-pdf-handout-creator)
 
-**Of course, forks and pull requests are welcome!**
+Most of this code was originally posted on Mathematica.StackExchange, at the
+above link, by user [totyped](https://mathematica.stackexchange.com/users/44178/totyped).
+
+**Of course, forks and pull requests are welcome!**  
+The best place to discuss this code is likely on the mathematica.stackexchange
+question (linked above).
 
 So far I've just made the original post's code run on my machine.
 
